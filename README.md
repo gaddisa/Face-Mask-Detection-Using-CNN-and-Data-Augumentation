@@ -18,6 +18,12 @@ The **Face Mask Detection Using CNN and Data Augmentation** project consists of 
 
 With the ongoing COVID-19 pandemic, the wearing of face masks has become a crucial measure to prevent the spread of the virus. The problem addressed in this project involves building computer vision systems capable of automatically detecting whether individuals in images or video streams are wearing face masks. This technology can be used in various applications, including monitoring compliance with mask-wearing regulations in public spaces.
 
+## Code Files
+
+- [Face Mask Detection with Data Augmentation](face_mask_with_data_augmentation.ipynb)
+- [Face Mask Training Code](facemask_training_code.ipynb)
+- [Real-time Face Mask Detection](real_time_face_mask_detection.py)
+
 ## Tools and Technologies
 
 The project leverages the following tools and technologies:
