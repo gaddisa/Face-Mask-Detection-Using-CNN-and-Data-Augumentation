@@ -20,7 +20,7 @@ With the ongoing COVID-19 pandemic, the wearing of face masks has become a cruci
 
 ## Code Files
 
-- [Face Mask Detection with Data Augmentation](face_mask_with_data_augmentation.ipynb)
+- [Face Mask Detection with Data Augmentation](face_mast_with_data_augumentation.ipynb)
 - [Face Mask Training Code](facemask_training_code.ipynb)
 - [Real-time Face Mask Detection](real_time_face_mask_detection.py)
 
